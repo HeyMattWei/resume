@@ -27,7 +27,7 @@
     height: 792pt;
     margin: 0 auto;
 
-    outline: 0 solid;
+    outline: none;
   }
 
 
@@ -229,7 +229,7 @@
   }
 
   .object__content {
-    font-size: 11pt;
+    font-size: 11pt !important;
   }
 
   .object__content > p,
